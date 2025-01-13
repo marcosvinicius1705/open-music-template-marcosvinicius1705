@@ -15,8 +15,8 @@ header {
 
 hr{
     margin: 3% 10% 0 10%;
-    height: 4px; /* Define a altura da linha */
-    background-color: var(--color-brand-1); /* Cor da linha */
+    height: 4px; 
+    background-color: var(--color-brand-1); 
     border: 0;
 }
 
